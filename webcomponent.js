@@ -61,6 +61,20 @@
             this.redraw();
         };
           
+        //Getters and Setters
+        get angleMax() {
+            return this._endAngleDeg;
+        }
+        set angleMax(value) {
+            //Empty the shadow dom
+            if (this._svgContainer){
+            this._svgContainer._groups[0][0].innerHTML = "";
+            }
+        
+            this._endAngleDeg = value;
+            this.redraw();
+        };
+
         redraw() 
         {
                 if (!this._svgContainer){
