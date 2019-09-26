@@ -13,11 +13,12 @@
 			"kind" : "main",
 			"tag"  : "com-sap-teched-23",
 			"url": "https://sapteched2019ain369.github.io/AIN368_XX/webcomponent.js",
-			"properties" : [],
 			"integrity" : "",
 			"ignoreIntegrity" : true
 		}
     ],
+	"properties": {
+	},
 	"methods": {
 	},
 	"events": {
