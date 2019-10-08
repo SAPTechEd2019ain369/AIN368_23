@@ -11,14 +11,14 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-teched-gauge-solution-exe2",
+			"tag": "com-sap-teched-gauge-23",
             "url": "https://sapteched2019ain369.github.io/AIN368_23/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-sap-teched-gauge-solution-exe2-aps",
+			"tag": "com-sap-teched-gauge-23",
             "url": "https://sapteched2019ain369.github.io/AIN368_23/aps_webcomponent.js",
 			"integrity": "",
             "ignoreIntegrity" : true
